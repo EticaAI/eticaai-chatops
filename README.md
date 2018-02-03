@@ -1,4 +1,6 @@
 # Etica.AI ChatOps
+> **Notice: please check the [ChatOps _for non-DevOps people_ Working Group 2018/01](https://github.com/fititnt/chatops-wg).**
+
 Etica.AI ChatOps is a repository that contains code and a [forum (see issues in GitHub)](https://github.com/EticaAI/eticaai-chatops/issues)
 to public document part of the process of how ChatOps is being implemented
 within the Etica.AI organization.
